@@ -1,4 +1,5 @@
 ﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorGUI", "CalculatorGUI\CalculatorGUI.csproj", "{105EDD3C-52D8-4F23-8156-0191E9238C7B}"
